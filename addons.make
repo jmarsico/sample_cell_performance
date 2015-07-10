@@ -1,0 +1,10 @@
+ofxGui
+ofxNetwork
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
+ofxColorGradient
+ofxCv
+ofxGenericDmx
+ofxImageSampler
+ofxIpVideoGrabber
